@@ -6,6 +6,6 @@ For all the details on the models used and the results obtained [see the project
 
 Resources in this repo:
 
-- [Project assignment]()
+- [Project assignment](https://github.com/gabrieletiboni/Sentiment-Analysis-on-TripAdvisor-reviews/blob/master/project%20assignment.pdf)
 - [Code](https://github.com/gabrieletiboni/Sentiment-Analysis-on-TripAdvisor-reviews/blob/master/CODE/solution.py)
 - [Report](https://github.com/gabrieletiboni/Sentiment-Analysis-on-TripAdvisor-reviews/blob/master/Report.pdf)
